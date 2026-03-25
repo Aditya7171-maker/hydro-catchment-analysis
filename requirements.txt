@@ -1,0 +1,5 @@
+pysheds
+numpy
+matplotlib
+cartopy
+pandas
