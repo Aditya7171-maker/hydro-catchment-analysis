@@ -57,16 +57,17 @@ This creates a **drainage network** across terrain.
 ## 📸 Results
 
 ### Terrain (DEM)
+![DEM](images/dem.png)
 
 ---
 
 ### Flow Direction
+![Flow Direction](images/flow_direction.png)
 
 ---
 
 ### Catchment Area
-
----
+![Catchment](images/catchment.png)
 
 ## ⚡ Why This Matters
 
